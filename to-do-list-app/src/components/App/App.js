@@ -57,7 +57,7 @@ function App() {
 						newItems[index],
 						...newItems.slice(index + 2),
 				  ];
-		setTodos(newItems); // update the state with the new array
+		setTodos(newItems); // update the state with new array
 	}
 
 	return (
