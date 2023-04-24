@@ -1,6 +1,7 @@
 import React from 'react';
 import './List.css';
 
+// buttons
 export default function List(props) {
 	return (
 		<ul>
